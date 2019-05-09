@@ -1,2 +1,2 @@
-<h1> Hi srinivas, This is from jenkins and deployed to docker !!! </h1>
+<h1> Hi, This is from jenkins and deployed to docker !!! </h1>
 
